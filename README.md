@@ -1,2 +1,0 @@
-# NaveedAI
-My Curriculam Vitae
