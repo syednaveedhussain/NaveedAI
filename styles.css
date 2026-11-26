@@ -1884,6 +1884,12 @@ body {
     object-fit: contain;
 }
 
+.google-badge-icon {
+    width: 88px;
+    height: 88px;
+    padding: 4px;
+}
+
 .cert-icon-wrapper iconify-icon {
     font-size: 40px; 
 }
